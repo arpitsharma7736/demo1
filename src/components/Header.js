@@ -36,7 +36,7 @@ function Header() {
         <h1>Welcome</h1>
         <nav>
             <ul>
-                <li><Link to="/" className='nav1' style={linkStyle}  onMouseEnter={handleMouseEnter}
+                <li><Link to="/home" className='nav1' style={linkStyle}  onMouseEnter={handleMouseEnter}
                 onMouseLeave={handleMouseLeave}>Home
                 <div className="underline" style={underlineAnimation}></div>
                 </Link></li>

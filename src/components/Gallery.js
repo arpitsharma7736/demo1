@@ -43,7 +43,7 @@ function Gallery() {
         />
 
         <img
-          src="https://mdbcdn.b-cdn.net/img/Photos/Vertical/mountain3.webp"
+          src="https://investorsaura.com/images/cr.jpg"
           className="w-100 shadow-1-strong rounded mb-4"
           alt="Yosemite National Park"
         />
