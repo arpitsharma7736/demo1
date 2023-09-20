@@ -15,7 +15,7 @@ function Gallery() {
         />
 
         <img
-          src="https://mdbcdn.b-cdn.net/img/Photos/Vertical/mountain1.webp"
+          src="https://investorsaura.com/images/mst.jpg"
           className="w-100 shadow-1-strong rounded mb-4"
           alt="Wintry Mountain Landscape"
         />
